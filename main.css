@@ -1,0 +1,10 @@
+.landing{
+    background-image: url(./assets/vil2.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height:700px;
+    font-size:150px;
+    text-align: center;
+    font-family: 'Black And White Picture', sans-serif;   
+}
