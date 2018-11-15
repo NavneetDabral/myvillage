@@ -1,10 +1,26 @@
-.landing{
+@media only screen and (min-width:700px) {
+    .landing{
     background-image: url(./assets/vil2.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    height:700px;
-    font-size:150px;
+    height:600px;
+    font-size:170px;
     text-align: center;
-    font-family: 'Black And White Picture', sans-serif;   
+    font-family: 'Black And White Picture', sans-serif;
+    color:currentColor;
+}
+}
+@media only screen and (max-width:699px) {
+    .landing{
+    background-image: url(./assets/vil2.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height:600px;
+    font-size:100px;
+    text-align: center;
+    font-family: 'Black And White Picture', sans-serif;
+    color:currentColor;
+}
 }
