@@ -10,6 +10,10 @@
     font-family: 'Black And White Picture', sans-serif;
     color:currentColor;
 }
+    nav{
+        font-family: 'Black And White Picture', sans-serif;
+        font-size:25px; 
+    }
 }
 @media only screen and (max-width:699px) {
     .landing{
@@ -23,4 +27,8 @@
     font-family: 'Black And White Picture', sans-serif;
     color:currentColor;
 }
+     nav{
+        font-family: 'Black And White Picture', sans-serif;
+        font-size:20px; 
+    }
 }
