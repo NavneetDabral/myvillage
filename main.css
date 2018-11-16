@@ -8,6 +8,7 @@
     font-size:170px;
     text-align: center;
     font-family: 'Black And White Picture', sans-serif;
+       
     color:currentColor;
 }
     nav{
@@ -37,6 +38,47 @@ box-shadow: inset 76px -7px 62px 3px rgba(0,0,0,0.75);
 box-shadow: -3px 19px 43px -3px rgba(26,25,24,1);
         margin:5px;
         border-radius:10px; 
+       /*  font-family: 'Dancing Script', cursive;*/
+    }
+    .address{
+        text-align: center;
+        padding:50px; 
+        line-height:20px; 
+        font-weight:bold;
+         font-size:20px; 
+    }
+    .card-header{
+        background-color:brown;
+        color: azure;
+    }
+    
+    .mapouter{
+        height:375px;
+        width:400px;
+        margin:20px;
+    }.gmap_canvas {
+        overflow:hidden;
+        background:none!important;
+        height:375px;
+        width:400px; 
+        border-style:solid;
+        border-color: black;
+        border-width:medium;
+        text-align:left;
+     }
+    iframe{
+        width="400"; 
+        height="375";
+    }
+    
+    
+    
+    
+    footer{
+        height:100px;
+        margin:0px;
+        background-color: darkslategrey;
+        color:azure;
     }
 }
 @media only screen and (max-width:699px) {
@@ -80,4 +122,29 @@ box-shadow: -3px 19px 43px -3px rgba(26,25,24,1);
         margin-left:10%; 
         border-radius:10px; 
     }
+    .card-header{
+        background-color:brown;
+        color: azure;
+    }
+    
+    footer{
+        height:70px;
+        margin:0px;
+        background-color: darkslategrey;
+        color:azure;
+    }
+     .mapouter{
+        height:375px;
+        width:400px;
+        margin:20px;
+    }.gmap_canvas {
+        overflow:hidden;
+        background:none!important;
+        height:375px;
+        width:400px; 
+        border-style:solid;
+        border-color: black;
+        border-width:medium;
+        text-align:left;
+     }
 }
