@@ -54,26 +54,19 @@ box-shadow: -3px 19px 43px -3px rgba(26,25,24,1);
     
     .mapouter{
         height:375px;
-        width:400px;
+        width:300px;
         margin:20px;
     }.gmap_canvas {
         overflow:hidden;
         background:none!important;
         height:375px;
-        width:400px; 
+        width:300px; 
         border-style:solid;
         border-color: black;
         border-width:medium;
         text-align:left;
      }
-    iframe{
-        width="400"; 
-        height="375";
-    }
-    
-    
-    
-    
+   
     footer{
         height:100px;
         margin:0px;
@@ -135,13 +128,13 @@ box-shadow: -3px 19px 43px -3px rgba(26,25,24,1);
     }
      .mapouter{
         height:375px;
-        width:400px;
+        width:300px;
         margin:20px;
     }.gmap_canvas {
         overflow:hidden;
         background:none!important;
         height:375px;
-        width:400px; 
+        width:300px; 
         border-style:solid;
         border-color: black;
         border-width:medium;
