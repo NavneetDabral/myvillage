@@ -11,6 +11,8 @@
        
     color:currentColor;
 }
+    
+    
     nav{
         font-family: 'Black And White Picture', sans-serif;
         font-size:25px; 
@@ -40,7 +42,9 @@ box-shadow: inset 76px -7px 62px 3px rgba(0,0,0,0.75);
 -moz-box-shadow: -3px 19px 43px -3px rgba(26,25,24,1);
 box-shadow: -3px 19px 43px -3px rgba(26,25,24,1);
         margin:5px;
-        border-radius:20px; 
+        border-color: black;
+        border-width:thin;
+        border-style:groove;
         width:25rem;
        /*  font-family: 'Dancing Script', cursive;*/
     }
@@ -107,6 +111,11 @@ box-shadow: -3px 19px 43px -3px rgba(26,25,24,1);
 box-shadow: inset 76px -7px 62px 3px rgba(0,0,0,0.75);
         margin-bottom:0px; 
     }
+    
+    .address{
+       margin-top:6px; 
+    }
+    
     .galbo{
         background-color:bisque; 
         padding:20px; 
@@ -119,6 +128,9 @@ box-shadow: -3px 19px 43px -3px rgba(26,25,24,1);
         margin-left:6%; 
         border-radius:10px;
         width:18rem;
+         border-color: black;
+        border-width:thin;
+        border-style:groove;
     }
     .card-header{
         background-color:brown;
@@ -155,6 +167,9 @@ box-shadow: -3px 19px 43px -3px rgba(26,25,24,1);
         margin-left:6%; 
         border-radius:10px;
         width:18rem;
+         border-color: black;
+        border-width:thin;
+        border-style:groove;
     }
     
     
