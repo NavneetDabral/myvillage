@@ -126,9 +126,8 @@ box-shadow: inset 76px -7px 62px 3px rgba(0,0,0,0.75);
 box-shadow: -3px 19px 43px -3px rgba(26,25,24,1);
         margin:5px;
         margin-left:6%; 
-        border-radius:10px;
         width:18rem;
-         border-color: black;
+        border-color: black;
         border-width:thin;
         border-style:groove;
     }
@@ -165,7 +164,6 @@ box-shadow: -3px 19px 43px -3px rgba(26,25,24,1);
 box-shadow: -3px 19px 43px -3px rgba(26,25,24,1);
         margin:5px;
         margin-left:6%; 
-        border-radius:10px;
         width:18rem;
          border-color: black;
         border-width:thin;
